@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Nikhil Bhintade",
+        "address": {
+            "state": "Maharashtra",
+            "district": "Satara"
+        },
+        "contact": 9511764391,
+        "farmAcres": 12.3,
+        "dripIrrigation": true,
+        "soilType": "Sandy Loam",
+        "surveyNumber": "152-amT-344",
+        "history": {
+            "crop": "Wheat",
+            "season": "kharif",
+            "plantingDate": "12-03-2020",
+            "acres": 12.3,
+            "yieldInTons": 2.5
+        }
+    },
+    {
+        "id": 2,
+        "name": "Yash Parmar",
+        "address": {
+            "state": "Gujrat",
+            "district": "Xyz"
+        },
+        "contact": 9511004391,
+        "farmAcres": 8.3,
+        "dripIrrigation": false,
+        "soilType": "Sandy Loam",
+        "surveyNumber": "152-amT-344",
+        "history": {
+            "crop": "Wheat",
+            "season": "kharif",
+            "plantingDate": "12-03-2020",
+            "acres": 12.3,
+            "yieldInTons": 2.5
+        }
+    },
+    {
+        "id": 3,
+        "name": "Yash Parmar",
+        "address": {
+            "state": "Gujrat",
+            "district": "Xyz"
+        },
+        "contact": 9511004391,
+        "farmAcres": 8.3,
+        "dripIrrigation": false,
+        "soilType": "Sandy Loam",
+        "surveyNumber": "152-amT-344",
+        "history": {
+            "crop": "Wheat",
+            "season": "kharif",
+            "plantingDate": "12-03-2020",
+            "acres": 12.3,
+            "yieldInTons": 2.5
+        }
+    },
+    {
+        "id": 4,
+        "name": "Yash Parmar",
+        "address": {
+            "state": "Gujrat",
+            "district": "Xyz"
+        },
+        "contact": 9511004391,
+        "farmAcres": 8.3,
+        "dripIrrigation": false,
+        "soilType": "Sandy Loam",
+        "surveyNumber": "152-amT-344",
+        "history": {
+            "crop": "Wheat",
+            "season": "kharif",
+            "plantingDate": "12-03-2020",
+            "acres": 12.3,
+            "yieldInTons": 2.5
+        }
+    },
+    {
+        "id": 5,
+        "name": "Yash Parmar",
+        "address": {
+            "state": "Gujrat",
+            "district": "Xyz"
+        },
+        "contact": 9511004391,
+        "farmAcres": 8.3,
+        "dripIrrigation": false,
+        "soilType": "Sandy Loam",
+        "surveyNumber": "152-amT-344",
+        "history": {
+            "crop": "Wheat",
+            "season": "kharif",
+            "plantingDate": "12-03-2020",
+            "acres": 12.3,
+            "yieldInTons": 2.5
+        }
+    }
+]
